@@ -2,7 +2,7 @@
  * ============================================================================
  * TECHMIYA EDTECH - BULK EMAIL SENDER (GOOGLE APPS SCRIPT BACKEND)
  * Authorized Sender: techmiyaedtech@gmail.com
- * Domain: email.techmiyaedtech.com
+ * Domain: emailsender.techmiyaedtech.com
  * ============================================================================
  *
  * Setup Instructions:

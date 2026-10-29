@@ -137,7 +137,7 @@ export const SettingsModal = ({ isOpen, onClose, token, onQuotaUpdated }) => {
           </div>
 
           <div style={{ marginTop: '20px', borderTop: '1px solid var(--neutral-200)', paddingTop: '14px', fontSize: '0.78rem', color: 'var(--neutral-500)' }}>
-            <strong>Authorized Account:</strong> techmiyaedtech@gmail.com &bull; <strong>Domain:</strong> email.techmiyaedtech.com
+            <strong>Authorized Account:</strong> techmiyaedtech@gmail.com &bull; <strong>Domain:</strong> emailsender.techmiyaedtech.com
           </div>
         </div>
 

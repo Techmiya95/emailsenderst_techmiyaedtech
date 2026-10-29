@@ -146,7 +146,7 @@ export function App() {
 
       <footer className="app-footer">
         <p>
-          &copy; {new Date().getFullYear()} <strong>Techmiya EdTech</strong> &bull; Official Email Portal: <code>email.techmiyaedtech.com</code> &bull; Sender: <code>techmiyaedtech@gmail.com</code>
+          &copy; {new Date().getFullYear()} <strong>Techmiya EdTech</strong> &bull; Official Email Portal: <code>emailsender.techmiyaedtech.com</code> &bull; Sender: <code>techmiyaedtech@gmail.com</code>
         </p>
       </footer>
     </div>
